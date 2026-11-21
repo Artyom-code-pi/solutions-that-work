@@ -72,7 +72,7 @@ export const about = {
     "Through Solutions That Work I bring that experience to organisations directly, as an independent consultant or contractor, and I’m also open to senior delivery and transformation roles.",
   ],
   // Put your photo in /public (e.g. /public/artyom.jpg) and set the path here.
-  photo: "/artyom.jpg",
+  photo: "/artyom-portrait.jpg",
   principles: [
     { title: "Plain-spoken", body: "Clear assessments of risk and progress — no spin." },
     { title: "Safety first", body: "Gates, pilots and hypercare so change doesn’t break operations." },
